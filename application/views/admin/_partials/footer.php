@@ -1,0 +1,1 @@
+<strong>Copyright &copy; <?php echo SITE_NAME . " " . Date('Y') ?></strong>
